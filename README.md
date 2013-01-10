@@ -1,6 +1,12 @@
+#Dottobot Game
+
+Dottobot is an AI game played between two players. This game is basically known as Dots and Boxes.
+
 # Dottobot Simulator
 
+Dottobot Simulator help two different codes play this game against one another simulating the real world experience.
 Source code for the Dottobot AI game organized during Nimble 2012. Simulator designed and developed by @nishchay2192 and @sankha93.
+It is written in JAVA.
 
 ## Instructions to run
 
